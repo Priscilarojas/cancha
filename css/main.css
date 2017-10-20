@@ -1,0 +1,66 @@
+.campo{
+  height: 60vh;
+  width: 150vh;
+  background-color: green;
+}
+.contorno{
+  border: 1vh solid white;
+  height: 50vh;
+  width: 140vh;
+  position: relative;
+  top: 4vh;
+  left: 4vh;
+  bottom: 3vh;
+}
+.arco{
+  border: 0.5vh solid white;
+  height: 20vh;
+  width: 15vh;
+  position: relative;
+  top: 13vh;
+  left: -0.5vh;
+}
+.arco2{
+  border: 0.5vh solid white;
+  height: 20vh;
+  width: 15vh;
+  position: relative;
+  top: -7vh;
+  left: 125vh;
+}
+.circulo{
+  height: 20vh;
+  width: 20vh;
+  position: relative;
+  border: 0.5vh solid white;
+  border-radius: 10.5vh;
+  top: -29vh;
+  left: 57vh;
+}
+.pelota1{
+  height: 4vh;
+  width: 4vh;
+  position: relative;
+  background-color: white;
+  border-radius: 10.5vh;
+  top: -50vh;
+  left: 12vh;
+}
+.pelota2{
+  height: 4vh;
+  width: 4vh;
+  position: relative;
+  background-color: white;
+  border-radius: 10.5vh;
+  top: -62vh;
+  left: 68vh;
+}
+.pelota3{
+  height: 4vh;
+  width: 4vh;
+  position: relative;
+  background-color: white;
+  border-radius: 10.5vh;
+  top: -41vh;
+  left: 120vh;
+}
